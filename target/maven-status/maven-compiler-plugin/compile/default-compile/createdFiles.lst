@@ -1,0 +1,7 @@
+com\pm05\product_web_app\models\Product.class
+com\pm05\product_web_app\controllers\ProductListServletController.class
+com\pm05\product_web_app\controllers\EditProductServletController.class
+com\pm05\product_web_app\models\db\DBCrud.class
+com\pm05\product_web_app\models\db\MySQLConnector.class
+com\pm05\product_web_app\controllers\CreateProductServletController.class
+com\pm05\product_web_app\controllers\HomeServletController.class
